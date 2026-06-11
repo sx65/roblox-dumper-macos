@@ -4,6 +4,9 @@
 
 Roblox Dumper is a tool that connects to a running Roblox game and automatically scans memory to find offsets for various classes and properties. It generates offset files in multiple formats that you can use in your own external/projects.
 
+
+-- Made by jonah, added mac support by SX65
+
 ## Setup Guide
 - https://dumper.jonah.cool/setup-guide
 
